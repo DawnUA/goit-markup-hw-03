@@ -295,7 +295,8 @@ button {
 
 .app-container {
   padding: 32px 16px;
-  border: none;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 
 .portfolio-name {
@@ -316,7 +317,7 @@ button {
 
 /*---- Footer ----*/
 .page-footer {
-  padding: 100px 0;
+  padding: 0 100px;
   background-color: #2e2f42;
 }
 
