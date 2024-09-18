@@ -150,6 +150,7 @@ button {
 .button-name {
   background-color: #4d5ae5;
   min-width: 169px;
+  border: none;
 }
 
 .button-name {
@@ -293,8 +294,7 @@ button {
 }
 
 .app-container {
-  padding-top: 32px;
-  padding-left: 16px;
+  padding: 32px 16px;
 }
 
 .portfolio-name {
