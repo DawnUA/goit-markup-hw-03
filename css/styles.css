@@ -126,7 +126,7 @@ button {
   background-color: #2e2f42;
   max-width: 1440px;
   padding: 0 15px;
-  padding-top: 188px;
+  padding: 188px 0;
   margin: 0 auto;
   margin-bottom: 120px;
 }
@@ -239,7 +239,7 @@ button {
 }
 
 .member-container {
-  padding-top: 32px;
+  padding: 32px 0;
 }
 
 .member-name {
@@ -295,6 +295,7 @@ button {
 
 .app-container {
   padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 
 .portfolio-name {
